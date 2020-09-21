@@ -2,9 +2,9 @@
 
 Republic.GG Tools
 
-• Check Level
-• Check GG Balance
-• Check GR Balance
+- Check Level
+- Check GG Balance
+- Check GR Balance
 
 How to use :
 1. git clone https://github.com/andhkdwm/republic.gg
